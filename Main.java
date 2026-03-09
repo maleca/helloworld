@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, world! and git! and github!");
+        System.out.println("Hello, world! and git! and github! and goodbye!");
     }
 }
